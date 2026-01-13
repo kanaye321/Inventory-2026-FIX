@@ -1,0 +1,8 @@
+[2026-01-13T03:18:32.136Z] [ALERT] {
+  "level": "info",
+  "message": "Server started successfully",
+  "details": {
+    "port": 5000
+  },
+  "timestamp": "2026-01-13T03:18:32.136Z"
+}
